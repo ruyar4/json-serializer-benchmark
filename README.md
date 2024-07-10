@@ -2,7 +2,7 @@
 
 ## Description
 
-A little benchmark to known the performace of various JSON serializators gems:
+A little benchmark to known the performace of various JSON serializators gems against 10.000 records:
 * [PankoSerializer](https://github.com/yosiat/panko_serializer)
 * [Blueprinter](https://github.com/procore-oss/blueprinter)
 * [ActiveModelSerializer](https://github.com/rails-api/active_model_serializers)
