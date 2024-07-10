@@ -2,7 +2,9 @@
 
 ## Description
 
-A little benchmark to known the performace of various serializators gems
+A little benchmark to known the performace of various JSON serializators gems:
+* [PankoSerializer](https://github.com/yosiat/panko_serializer)
+* [Blueprinter](https://github.com/procore-oss/blueprinter)
 
 ## Getting Started
 
