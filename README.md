@@ -1,4 +1,4 @@
-# JSON Serializer Benchamrk
+# Ruby JSON Serializer Benchmark
 
 ## Description
 
